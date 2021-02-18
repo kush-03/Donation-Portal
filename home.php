@@ -12,10 +12,10 @@
 				<h1 ><strong><a href="home.php" >Donation Portal - </a></strong>   Sparks Foundation</h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="home.php">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li><a href="#one">About</a></li>
 						<li><a href="#two">Contact</a></li>
-						<li><a href="first.php">Logout</a></li>
+						<li><a href="index.php">Logout</a></li>
 					</ul>
 				</nav>
 			</header>
