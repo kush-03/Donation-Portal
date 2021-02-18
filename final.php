@@ -15,7 +15,7 @@
 						<li><a href="home.php">Home</a></li>
 						<li><a href="home.php">About</a></li>
 						<li><a href="home.php">Contact</a></li>
-						<li><a href="first.php">Logout</a></li>
+						<li><a href="index.php">Logout</a></li>
 					</ul>
 				</nav>
 			</header>
