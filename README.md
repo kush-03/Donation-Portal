@@ -4,5 +4,5 @@ Login/ Register - Where user can Login to enter into his/her dashboard to donate
 DashBoard- This is the Main Portal where user can Donate certain amount.He can Read About the organization and get connected.
 
 DataBase - SQL
-FrontEnd- HTML, CSS 
-Backend - Java Script
+FrontEnd- HTML, CSS  
+Backend - Java Script,PHP
