@@ -15,8 +15,8 @@
 				
 				<nav id="nav">
 					<ul>
-						<li><a href="first.php">Home</a></li>
-						<li><a href="first.php">Log In</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="index.php">Log In</a></li>
 					</ul>
 				</nav>
 	</header>
