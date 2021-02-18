@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
 		echo "You are Succesfully Logged in";
 	}
 	else{
-		header('location:first.php');
+		header('location:index.php');
 		
 	}
 	
